@@ -4,10 +4,17 @@
 To develop a neural network regression model for the given dataset.
 
 ## THEORY
-Explain the problem statement
+## THEORY
+A company has collected a dataset containing various input features and corresponding numerical output values related to a specific problem (such as sales, price, or demand prediction). The relationship between the input variables and output is complex and cannot be accurately modeled using simple statistical methods.
 
+To solve this problem, the company wants to develop a neural network-based regression model that can learn patterns from the existing data. The model should be trained using historical data so that it can understand how input features influence the output values.
+
+Once trained, the model will be used to predict continuous numerical outputs for new, unseen data points. This will help the company make better decisions based on accurate predictions.
+
+The goal is to minimize prediction error and improve the model’s performance using appropriate training techniques such as backpropagation and optimization algorithms
 ## Neural Network Model
-Include the neural network model diagram.
+
+<img width="1126" height="856" alt="image" src="https://github.com/user-attachments/assets/0b9368da-34ee-4f20-aa49-5de57c9e1793" />
 
 ## DESIGN STEPS
 ### STEP 1: 
